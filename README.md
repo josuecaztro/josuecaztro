@@ -3,7 +3,7 @@
 
 <h4>💡Josue Castro • Full Stack Developer⚡️</h4>
 
-<img src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="238" height="180" style="border-radius: 50%; box-shadow: 3px 3px 3px black;" />
+<img src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="238" height="260" style="border-radius: 50%; box-shadow: 3px 3px 3px black;" />
 
 <p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josuecaztro&theme=panda" alt="GitHub Streak" /></a>
