@@ -5,8 +5,6 @@
 
 ![GIF](https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif)
 
-[via GIPHY](https://giphy.com/gifs/wfh-workfromhome-remotework-ptqAPgghLtHOa0SLJS)
-
 
 <p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josuecaztro&theme=panda" alt="GitHub Streak" /></a>
