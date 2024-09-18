@@ -5,9 +5,6 @@
 
 <img src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="238" height="280" />
 
-![GIF](https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif)
-
-
 <p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josuecaztro&theme=panda" alt="GitHub Streak" /></a>
 </div>
