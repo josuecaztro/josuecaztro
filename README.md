@@ -3,6 +3,8 @@
 
 <h4>💡Josue Castro • Full Stack Developer⚡️</h4>
 
+<iframe src="https://giphy.com/embed/ptqAPgghLtHOa0SLJS" width="438" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wfh-workfromhome-remotework-ptqAPgghLtHOa0SLJS">via GIPHY</a></p>
+
 <p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josuecaztro&theme=panda" alt="GitHub Streak" /></a>
 </div>
