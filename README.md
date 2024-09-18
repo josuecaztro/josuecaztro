@@ -3,7 +3,7 @@
 
 <h4>💡Josue Castro • Full Stack Developer⚡️</h4>
 
-<img src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="438" height="480" />
+<img src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="238" height="280" />
 
 ![GIF](https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif)
 
