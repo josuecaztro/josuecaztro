@@ -1,7 +1,7 @@
-## 👋 Welcome to My GitHub! { Full-Stack Developer }
+## 👋 Welcome to My GitHub!
 <div align="center">
 
-<h4>Josue Castro • Full Stack Developer</h4>
+<h4>Josue Castro • { Full Stack Developer }</h4>
 <p>I'm passionate about coding and love creating projects that combine my front-end and back-end skills. I enjoy building real-world apps with real-world utility, using my primary tech stack: React, TypeScript, Spring Boot, MySQL, Java, JavaScript, and more.</p>
 
 
