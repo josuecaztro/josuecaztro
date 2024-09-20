@@ -8,6 +8,9 @@
 <p></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josuecaztro&theme=panda" alt="GitHub Streak" /></a>
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 <!--
 **josuecaztro/josuecaztro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
