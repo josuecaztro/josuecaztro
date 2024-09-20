@@ -25,8 +25,8 @@
 
 </div>
 
-<h2>Current Projects:</h2>
+<h2>Recent Projects:</h2>
 <ul>
-  <li>Spark - A user-friendly, twitter-clone application</li>
+  <li><a>Spark</a> - A user-friendly, twitter-clone application</li>
 </ul>
 
