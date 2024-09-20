@@ -27,6 +27,6 @@
 
 <h2>Recent Projects:</h2>
 <ul>
-  <li><a>Spark</a> - A user-friendly, twitter-clone application</li>
+  <li><a href="https://github.com/mnaser11218/Spark" target="_blank">Spark</a> - A user-friendly, twitter-clone application</li>
 </ul>
 
