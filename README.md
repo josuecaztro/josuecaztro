@@ -12,10 +12,6 @@
   </tr>
 </table>
 
-
-
-
-
 <p></p>
 
 
@@ -28,4 +24,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,nodejs,react,spring,ts,aws)](https://skillicons.dev)
 
 </div>
+
+<h2>Current Projects:</h2>
+<ul>
+  <li>Spark - A user-friendly, twitter-clone application</li>
+</ul>
 
