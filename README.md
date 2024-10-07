@@ -25,7 +25,7 @@
 
 </div>
 
-<h2>Recent Projects:</h2>
+<h2>🔨 Recent Projects:</h2>
 <ul>
   <li><a href="https://github.com/josuecaztro/IVDD-Final-Website" target="_blank">"Voice of God" Church Website</a> - An official website for my church organization</li>
   <li><a href="http://3.134.232.108:3681/" target="_blank">Spark</a> - A user-friendly, twitter-clone application</li>
