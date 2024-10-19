@@ -15,7 +15,7 @@
 <p></p>
 
 
-<h6>CONNECT with me on LINKEDIN</h6>
+<h6>CONNECT with me on `LINKEDIN`</h6>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/josuecastro1/)
 
