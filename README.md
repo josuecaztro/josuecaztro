@@ -21,7 +21,7 @@
 
 <h6>My Skills</h6>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,nodejs,react,spring,ts,aws,python,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,mysql,nodejs,react,spring,ts,aws,python,docker)](https://skillicons.dev)
 
 </div>
 
