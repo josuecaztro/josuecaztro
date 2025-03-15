@@ -12,6 +12,9 @@
   </tr>
 </table>
 
+![Josue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuecaztro&show_icons=true&theme=radical)
+
+
 <p></p>
 
 
