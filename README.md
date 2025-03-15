@@ -2,7 +2,7 @@
 <div align="center">
 
 <h2>Josue Castro { Full Stack Developer }</h2>
-<p>I'm passionate about developing projects that combine my front-end and back-end skills. I enjoy building apps with real-world utility, using my primary tech stack: <code>React, TypeScript, Spring Boot, MySQL, Java, JavaScript, and more.</code></p>
+<p>I'm passionate about developing projects, especially collaborating with others. I enjoy building apps with real-world utility, using my primary tech stack: <code>React, TypeScript, Spring Boot, MySQL, Java, JavaScript, and more.</code></p>
 
 <table>
   <tr>
