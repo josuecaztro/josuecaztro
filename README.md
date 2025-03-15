@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Josue! Welcome to My GitHub!
 <div align="center">
 
-<h2>Josue Castro < Full Stack Developer /></h2>
+<h2>Josue Castro < Software Engineer /></h2>
 <p>I'm passionate about developing projects, especially collaborating with others. I enjoy building apps with real-world utility, using my primary tech stack: <code>React, TypeScript, Spring Boot, MySQL, Java, JavaScript, and more.</code></p>
 
 <table>
