@@ -22,7 +22,7 @@
 
 <h6>CONNECT with me on LINKEDIN</h6>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/josuecastro1/)
+<span>👉</span>[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/josuecastro1/)
 
 <h6>My Skills</h6>
 
