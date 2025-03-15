@@ -4,7 +4,7 @@
 <h2>Josue Castro { Full Stack Developer }</h2>
 <p>I'm passionate about developing projects that combine my front-end and back-end skills. I enjoy building apps with real-world utility, using my primary tech stack: <code>React, TypeScript, Spring Boot, MySQL, Java, JavaScript, and more.</code></p>
 
-<div>
+<div style="display: flex;">
 <img src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="138" height="160" style="border-radius: 50%; box-shadow: 3px 3px 3px black;"/>
 
 ![Josue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuecaztro&show_icons=true&theme=radical)
