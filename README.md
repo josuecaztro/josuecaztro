@@ -33,7 +33,7 @@
 <h2>Recent Projects:</h2>
 <ul>
   <li> <code>🚧 IN DEVELOPMENT</code> <a href="https://github.com/josuecaztro/portfolio-pg" target="_blank">Portfolio Website</a> - A modern, fully responsive portfolio built with React, optimized for all devices.</li>
-  <li><a href="https://github.com/josuecaztro/IVDD-Final-Website" target="_blank">Church Website</a> - A live, official webpage for my church organization</li>
+  <li><a href="https://iglesiavozdedios.net" target="_blank">Church Website</a> - A live, official webpage for my church organization</li>
   <li><a href="http://3.134.232.108:3681/" target="_blank">Spark</a> - A user-friendly, twitter-clone application</li>
 </ul>
 
