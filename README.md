@@ -2,7 +2,15 @@
 <div align="center">
 
 <h2>Josue Castro < Software Engineer /></h2>
-<p>I'm passionate about developing projects, especially collaborating with others. I enjoy building apps with real-world utility, using my primary tech stack: <code>React, TypeScript, Spring Boot, MySQL, Java, JavaScript, and more.</code></p>
+Software engineer who genuinely loves building things. I’m especially excited about **collaborating with others** (open-source projects, hobby projects). I build to **solve problems, automate tasks, and deliver useful applications** for real-world usage.
+## 🛠️ What I Enjoy Building
+I’m passionate about **full-stack development**, but I naturally gravitate toward projects that:
+- Solve real problems
+- Automate repetitive or annoying tasks
+I especially enjoy:
+- Designing and maintaining **CI/CD pipelines**
+- Writing **automation scripts** (Bash, Linux tooling)
+- **Cloud engineering & cloud development**
 
 <table>
   <tr>
@@ -29,6 +37,23 @@
 [![My Skills](https://skillicons.dev/icons?i=js,java,mysql,nodejs,react,spring,ts,aws,python,docker)](https://skillicons.dev)
 
 </div>
+
+## 🧠 Tech Stack
+
+| Area                    | My Experience                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| Frontend                | React, TypeScript, JavaScript, Vite Framework *(React is a strong suit)*       |
+| Backend                 | Java, Spring Boot, Quarkus                                                     |
+| Databases               | Relational databases (MySQL, PostgreSQL), SQL                                  |
+### DevOps / Infrastructure
+- **Docker** & **Docker Compose**
+- **CI/CD pipelines** (YAML-based workflows)
+- **Bash scripting**
+- **Linux**
+- **Cloud platforms** (strong AWS experience)
+- App deployment on virtual machines and servers
+## 🤝 Collaboration
+If you’re interested in collaborating, learning together, or building something useful... feel free to reach out or explore the repos! I’m always open to good ideas and solid engineering conversations.
 
 <h2>Recent Projects:</h2>
 <ul>
