@@ -3,6 +3,7 @@
 
 <h2>Josue Castro < Software Engineer /></h2>
 Software engineer who genuinely loves building things. I’m especially excited about **collaborating with others** (open-source projects, hobby projects). I build to **solve problems, automate tasks, and deliver useful applications** for real-world usage.
+
 ## 🛠️ What I Enjoy Building
 I’m passionate about **full-stack development**, but I naturally gravitate toward projects that:
   
