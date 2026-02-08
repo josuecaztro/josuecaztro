@@ -10,8 +10,8 @@
       <img src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="138" height="160" style="border-radius: 50%; box-shadow: 3px 3px 3px black;"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=josuecaztro&show_icons=true&theme=radical"/>
-    </td>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=josuecaztro&theme=radical" />
+</td>
   </tr>
 </table>
 
