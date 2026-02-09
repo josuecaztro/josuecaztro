@@ -2,8 +2,8 @@
 <div align="center">
 
 <h2>Josue Castro < Software Engineer /></h2>
-Software engineer who genuinely loves building things. I’m especially excited about <strong>collaborating with others</strong> (open-source projects, hobby projects). I build to <strong>solve problems, automate tasks, and deliver useful applications</strong> for real-world usage.\n
-
+Software engineer who genuinely loves building things. I’m especially excited about <strong>collaborating with others</strong> (open-source projects, hobby projects). I build to <strong>solve problems, automate tasks, and deliver useful applications</strong> for real-world usage.
+</br>
 
 <table>
   <tr>
