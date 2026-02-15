@@ -39,7 +39,7 @@ Software developer who genuinely loves building things. I’m especially excited
 | Backend                 | Java, Spring Boot, Quarkus                                                     |
 | Databases               | Relational databases (MySQL, PostgreSQL), SQL                                  |
 | DevOps / Infrastructure (Containers & CI/CD) | Docker, Docker Compose, CI/CD pipelines (YAML-based workflows) |
-| DevOps / Infrastructure (Cloud & Ops) | Bash scripting, Linux, Cloud platforms (strong AWS experience), App deployment on virtual machines and servers |
+| DevOps / Infrastructure (Cloud & Ops) | Bash scripting, Linux, Cloud platforms (AWS industry-experience), App deployment on virtual machines and servers |
 
 ## 🤝 Collaboration
 If you’re interested in collaborating, learning together, or building something useful... feel free to reach out or explore the repos! I’m always open to good ideas and solid engineering conversations.
